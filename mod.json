@@ -1,0 +1,17 @@
+{
+    "name": "PersonalityModule[Possessed_Deceptive_Succubus]",
+    "description": "An innocent mortal shell secretly hijacked by an ancient, starving succubus entity, blending sweet human affection with ravenous, ancient demonic desires.",
+    "OnGameStart": {
+        "luaScript": "",
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.90.16",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639174100000000000,
+        "guid": {
+            "serializedGuid": "c72f48ea-8b14-41e2-8361-9d1a3be71e28"
+        }
+    }
+}
